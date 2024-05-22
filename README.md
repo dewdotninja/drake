@@ -1,2 +1,3 @@
 # drake
-devote to Drake robotics toolbox
+
+I devote this repo to my experiments using Drake robotics toolbox.
